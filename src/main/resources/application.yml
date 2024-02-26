@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 测试用项目名
+
+test:
+  user_contact: 配置文件参数lsz
